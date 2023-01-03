@@ -1,12 +1,8 @@
-@font-face {
-  font-family: Roboto-Mono;
-  src: url(/RobotoMono-VariableFont_wght.ttf);
-}
 * {
   display: inline-block;
   text-align: center;
   margin-top: 100px;
-  font-family: "Roboto-Mono", sans-serif;
+  font-family: sans-serif;
 }
 h2{
     color: white;
